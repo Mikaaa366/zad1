@@ -1,16 +1,9 @@
-<?php
-
-$a=6;
-$b=5;
-
-if ($a>$b) {
-	echo"liczba A jest większa od liczby B i wynosi " .$a;
+<? php
+while ( $ zmienna  <  101  &&  $ inna  >  100 ) // warunek kontynuacji pętli
+{
+  echo  $ zmienna ;
+  echo  $ inna ;
+  $ zmienna  + =  10 ; // zmienna może się zmienić szybciej / wolniej / wcale
+  inna $  - =  5 ; // sprawdzanych może być wiele rodzajów
 }
-else if ($b>$a) {
-	echo"liczba B jest większa od liczby A i wynosi ".$b;
-}
-else if ($a==$b) {
-	echo"obie liczby są takie same" ;
-jdklskdlklkxmll
-}
-?>
+? >
