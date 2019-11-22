@@ -11,6 +11,6 @@ else if ($b>$a) {
 }
 else if ($a==$b) {
 	echo"obie liczby są takie same" ;
-
+jdklskdlklkxmll
 }
 ?>
